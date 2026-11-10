@@ -5,7 +5,7 @@
     "name": "辉煌帝"
   },
   "category": "玩法",
-  "changelog": "刷新签名",
+  "changelog": "迁移到新版服务端。",
   "conflicts": [],
   "delisted": false,
   "description": "NPC掉落突变：可突变的模块/无人机在掉落时按 NPC 档位随机突变为 Abyssal 产物，属性区间与服务端突变一致。",
@@ -14,28 +14,28 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.3.1/npc-loot-mutation-0.3.1.zip"
+      "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.4.1/npc-loot-mutation-0.4.1.zip"
     }
   ],
   "evejsVersions": [
-    "261028.x"
+    "261108.x"
   ],
   "featured": false,
   "highlights": [
-    "兼容：EveJS `261028.x`",
+    "兼容：EveJS `261108.x`",
     "与 [`npc-loot-rules`](../npc-loot-rules) 可同时启用：本模组注入 `nativeNpcWreckService.js`，它注入 `npcLoot.js` / 其它 3 个文件，互不干扰。",
     "交付为 `loader.js.disabled`，需要你在启动器里启用。"
   ],
   "history": [],
   "id": "npc-loot-mutation",
-  "publishedAt": "2026-11-09",
+  "publishedAt": "2026-11-10",
   "readme": [
     "在 NPC 残骸掉落生成时，把**可突变的模块 / 无人机**按 NPC 档位随机突变成对应的 **Abyssal** 产物（属性区间与游戏内突变质体一致）。"
   ],
   "repo": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation",
   "requiresRestart": true,
-  "sha256": "89dc84018f31cc73cc632c4a6fd0d946347a3dce151253d86f729f0897a7782f",
-  "sizeBytes": 30018,
+  "sha256": "e577cef031468a71af33734c5e7930675e78483c4d9674686bdde3bbd15e0a56",
+  "sizeBytes": 31146,
   "tags": [],
-  "version": "0.3.1"
+  "version": "0.4.1"
 }
