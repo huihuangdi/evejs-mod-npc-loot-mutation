@@ -14,11 +14,11 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.5.1/npc-loot-mutation-0.5.1.zip"
+      "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.5.4/npc-loot-mutation-0.5.4.zip"
     }
   ],
   "evejsVersions": [
-    "261115.x"
+    "261125.x"
   ],
   "featured": false,
   "highlights": [
@@ -28,14 +28,14 @@
   ],
   "history": [],
   "id": "npc-loot-mutation",
-  "publishedAt": "2026-11-21",
+  "publishedAt": "2026-11-27",
   "readme": [
     "在 NPC 残骸掉落生成时，把**可突变的模块 / 无人机**按 NPC 档位随机突变成对应的 **Abyssal** 产物（属性区间与游戏内突变质体一致）。"
   ],
   "repo": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation",
   "requiresRestart": true,
-  "sha256": "b2e70eab2f16ad478a5b90ad2b65e14b535a886ae47dabde979a03d4c98a6781",
-  "sizeBytes": 39771,
+  "sha256": "3c359d62c0283358c425227218f3820c88fcd3449573582c6c895fdbaa5740c7",
+  "sizeBytes": 116977,
   "tags": [],
-  "version": "0.5.1"
+  "version": "0.5.4"
 }
